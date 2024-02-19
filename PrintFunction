@@ -1,2 +1,8 @@
 #Program No 2: Usage of print statement
 print("Hello World")
+
+# Program 03: Printing my name with print() func
+# Using double quotes
+print("My name is Manali Suhas Dixit")
+#Using single quotes
+print('My mother tongue is Marathi')
