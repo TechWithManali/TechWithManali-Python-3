@@ -1,0 +1,5 @@
+#There are two types of errors:
+# a) Syntax Errors b) NameError
+
+print('This message has mismatched quote marks!")  #syntax error
+print(Abracadabra) #Name error
