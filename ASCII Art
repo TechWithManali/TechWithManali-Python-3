@@ -1,0 +1,16 @@
+Write a Python program called initials.py that displays the initials of your name in block letters as shown and dip your toes into ASCII art. ASCII art of letters.
+
+Solution:
+
+# Manali Dixit Joshi
+# Maktub:Everything is written
+
+#Letter M
+print("M    M     DDDD     JJJJJ")
+print ("MM  MM     D     D      J")
+print("M M  M     D     D      J")
+print("M    M     D     D      J")
+print("M    M     D     D      J")
+print("M    M     D     D   J   J")
+print("M    M     DDDD      JJJJJ")
+
