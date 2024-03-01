@@ -1,0 +1,18 @@
+Create variables:
+
+my_age
+half_my_age
+greeting
+name
+greeting_with_name
+Assign values to each using your knowledge of division and concatenation!
+
+Solution:
+
+my_age = 27
+half_my_age = 27 / 2
+greeting = 'Guten Morgen'
+name = 'Manali Suhas Dixit'
+greeting_with_name = "greeting" + "name"
+
+print (my_age,half_my_age,greeting,name,greeting_with_name)
